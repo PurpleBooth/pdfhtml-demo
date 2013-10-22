@@ -1,0 +1,6 @@
+{
+    "name": "billie/pdfhtmlexample",
+    "require": {
+        "ensepar/html2pdf": "1.0.x-dev"
+    }
+}
